@@ -37,6 +37,12 @@ var logos = [
     link: 'https://www.intuit.com/'
   },
   {
+    name: 'Lyft',
+    img: 'lyft.png',
+    isRound: true,
+    link: 'https://www.lyft.com/'
+  },
+  {
     name: 'Coursera',
     img: 'coursera.png',
     link: 'https://www.coursera.org/'
